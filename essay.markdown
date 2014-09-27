@@ -21,6 +21,18 @@ When data mining is mentioned in the context of open source intelligence, there'
 
 ### Link analysis
 
+>**link analysis**: Link analysis is a subset of network analysis, exploring associations between objects. An example may be examining the addresses of suspects and victims, the telephone numbers they have dialed and financial transactions that they have partaken in during a given timeframe, and the familial relationships between these subjects as a part of police investigation. [^wikipedia-link-analysis]
+
+[^wikipedia-link-analysis]: [Network theory, section "network analysis", subsection "link analysis", Wikipedia.org](https://en.wikipedia.org/wiki/Network_theory#Link_analysis)
+
+As you can easily see from above quote taken straight from wikipedia, link analysis has been an important tool in investigating crimes long before the advent of computers and the current difficult situation with users' privacy concerning the data their device produce daily. Modern technology has only made this easier by giving researchers more different sources of information. Those sources often contain many more records than they did before efforts on standardization and globalization of data had reached their current scale.
+
+One needs only look at the TV series "Numb3rs" [^imdb-numbers] which aired several years ago from the time of this writing to see the great benefit scientific methods can have on crime investigation. Now, one must not assume that the show is to be taken for truth - it's a product of fiction of course. It is mentioned here not as an example how these investigations are pursued but to illustrate how much development of methods can help investigators. For example, the technique called "cellphone triangulation" which is both used (in combination with other technologies) to allow smartphones to provide their current location to running applications and by law enforcement when looking for missing persons. Also reknown mathematics company Wolfram partnered with the production company CBS to promote math awareness via the series. [^wolfram-numbers]
+
+[^wolfram-numbers]: ["The Math Behind Numb3rs", Wolfram Research](http://numb3rs.wolfram.com)
+
+[^imdb-numbers]: [Numb3rs (TV Series 2005-2010) - IMDB](http://www.imdb.com/title/tt0433309/)
+
 ## Sources, both prominent and more obscure
 
 # Learning from a bad example
