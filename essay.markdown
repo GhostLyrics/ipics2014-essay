@@ -13,6 +13,12 @@ The term that has been coined for collecting this kind of freely accessible inte
 
 ### Data Mining
 
+>**data mining**: (noun, Digital Technology) the process of collecting, searching through, and analyzing a large amount of data in a database, as to discover patterns or relationships [^dictionary-data_mining]
+
+[^dictionary-data_mining]: [Definition of "data mining", Dictionary.com](http://dictionary.reference.com/browse/data%20mining?s=t)
+
+When data mining is mentioned in the context of open source intelligence, there's a good chance someone will be referring to analyzing data sources like IRC logs, Twitter, Open Data sources, archives of mailing-lists, public Facebook and Google+ profiles. This is just the tip of the iceberg. That I just did this enumartion without any research acts as a good reminder how easy it is to find open sources. There are more sources to OSINT this document aims to shed light on.
+
 ### Link analysis
 
 # Learning from a bad example
