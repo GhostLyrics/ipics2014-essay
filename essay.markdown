@@ -21,6 +21,8 @@ When data mining is mentioned in the context of open source intelligence, there'
 
 ### Link analysis
 
+## Sources, both prominent and more obscure
+
 # Learning from a bad example
 
 # DIY OSINT
