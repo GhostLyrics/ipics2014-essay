@@ -11,7 +11,7 @@ The term that has been coined for collecting this kind of freely accessible inte
 
 ## Typical components of OSINT
 
-### Date Mining
+### Data Mining
 
 ### Link analysis
 
