@@ -55,6 +55,26 @@ There was a case in Austria in 2011 in which the use of open source intelligence
 
 In the eyes of law enforcement, the evidence proved that the person was indeed the same person as one acting under the nickname "&The_Dude" in an IRC channel associated with the Internet collective Anonymous.
 
+## Steps taken by law enforcement
+
+The following is essentially a summary of the steps law enforcement took in regard to OSINT[^imgur-report].
+
+[^imgur-report]: ["Anlassbericht Michael R"](http://imgur.com/a/15Hrg), imgur, 2014-10-04
+
+* Law enforcement was listening to the AnonOps/austria IRC. Documents mention them getting kicked repeatedly for idling.
+* Law enforcement concluded that the assumption that a suspect would be "googled" is not common knowlegdge but can only be known through years of IT expercience and ordered an official "Open-Source-Recherche" (Open source research).
+* During the OSINT process the focus was given to "a person with IT knowledge" "using the nickname *The_Dude*".
+* Law enforcement follows leads during which anonymous chat participants suspect that *The_Dude* is living either in Tulln, Austria or Krems, Austria. (Neither of those statements are confirmed or denied by the account in question.)
+* On the suspect's private homepage, law enforcement discovered an old image that looked similar to "The Dude" which is a character from the movie "The Big Lebowski" [^imdb-lebowski]. This prompted an anonymous comment years ago saying "It's the dude." (The photo was not the suspect.) Law enforcement concluded that it has to be the suspect since "person in this kind of milieu almost never or never change their nicknames".
+* Law enforcement used a `whois` query as well in addition to browsing the website to acquire the website admin's personal information as well as his areas of interest.
+* Law enforcement searched various social networks for information about the suspect and found evidence on his career in IT on his Xing profile. This and his "connection" to a popular website having Internet Politics, anonymity and data protection among its topics prompted them to investigate further and send a request to the Austrian Central Civic Register.
+* The information on Xing gives reason to suspect the suspect's involvement in past actions of AnonAustria, though these are terrifyingly small nuggets of information to construct a case. Amongst those is "was in the past an employee of the company in whose online forum a link to a data dump surfaced".
+* Law enforcement cross checked dates of postings of videos on Youtube with the dates of corresponding tweets on the @anonaustria Twitter account.
+* Law enforcement checks the suspect's twitter account and comes across several postings related to InfoSec as well as statements which are generally misunderstood. Amongst those is "OH: ", which is Twitter jargon for "overheard", meaning you're citing someone you've met offline.
+* Law enforcement used combined physical and digital observation to conclude that the suspect was absent for the same time from IRC and/or left meaningless short messages which could've been sent from his phone to keep connected to IRC.
+
+[^imdb-lebowski]: [The Big Lebowski](http://www.imdb.com/title/tt0118715/), IMDB, 2014-10-04
+
 # DIY OSINT
 
 # Conclusions
