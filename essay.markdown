@@ -49,7 +49,7 @@ One needs only look at the TV series "Numb3rs" [^imdb-numbers] which aired sever
 
 # Learning from a bad example
 
-There was a case in Austria in which the use of open source intelligence was neatly documented and the documents made public by the suspect [^imgur-documents] which later proved to be innocent. In this case the use of OSINT was used to find (or, as one might argue, construct) evidence incriminating the person of "Re-engagement in NS activities".
+There was a case in Austria in 2011 in which the use of open source intelligence was neatly documented and the documents made public by the suspect [^imgur-documents] which later proved to be innocent. In this case the use of OSINT was used to find (or, as one might argue, construct) evidence incriminating the person of "Re-engagement in NS activities".
 
 [^imgur-documents]: ["Gerichtsakt zum AnonAustria Ermittlungsverfahren gegen Michael R."](http://huntinganonaustria.imgur.com), imgur, 2014-09-17
 
