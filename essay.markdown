@@ -37,6 +37,13 @@ One needs only look at the TV series "Numb3rs" [^imdb-numbers] which aired sever
 
 ### open
 #### whois
+
+>The **whois** utility looks up records in the databases maintained by several Network Information Centers (NICs).[^manpage-whois]
+
+[^manpage-whois]: `man whois`, BSD Manpages on OS X 10.10 Yosemite
+
+`whois` queries are used to get information about users who have registered or administer an internet domain (e.g. `example.org`). These databases by default require personal details to be entered, among them full name, a complete postal address, phone number and e-mail address. While nowadays many providers offer a paid option called "whois privacy" to protect against that querying a site's whois entry may present valuable information about the owner.
+
 ### semi-open
 #### government records
 
