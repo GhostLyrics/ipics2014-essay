@@ -110,10 +110,10 @@ The following is essentially a summary of the steps law enforcement took in rega
 * The information on Xing gave law enforcement reason to suspect the suspect's involvement in past actions of AnonAustria, though these are terrifyingly small nuggets of information to construct a case. Amongst those is "was in the past an employee of the company in whose online forum a link to a data dump surfaced".  
   *Amongst the fairly weak evidence law enforcement came up with, this one is strikingly irrelevant. The suspect had no link to the account in question. Being automatically tied to all sorts of electronic messaging systems of your former employers can't be a link that we think of as valid. The surfacing of a link to a pastebin containing a data dump does not make all users of a message board co-conspirators.*
 
-* Law enforcement cross checked dates of postings of videos on Youtube with the dates of corresponding tweets on the [@anonaustria][][^twitter-anonaustria] Twitter account.  
+* Law enforcement cross checked dates of postings of videos on Youtube with the dates of corresponding tweets on the @[anonaustria][][^twitter-anonaustria] Twitter account.  
   *The immediate posting of this data on Twitter does not suggest that the poster is the same as the one of the dump. It only means that it was found to be of interest to the followers of said account by one or more of the people responsible for running said account. A re-post of a link does not signify approval or disapproval per se.*
 
-[@anonaustria]: https://twitter.com/anonaustria
+[anonaustria]: https://twitter.com/anonaustria
 
 [^twitter-anonaustria]: The account has been suspended according to [a report by futurezone.at on 2014-10-17](http://futurezone.at/digital-life/twitter-sperrt-account-von-anonaustria/91.763.766)
 
