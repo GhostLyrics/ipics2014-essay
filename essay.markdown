@@ -33,24 +33,39 @@ One needs only look at the TV series "Numb3rs"[^imdb-numbers] which aired severa
 
 [^imdb-numbers]: [Numb3rs (TV Series 2005-2010)](http://www.imdb.com/title/tt0433309/), IMDB, 2014-08-28
 
-## Sources, both prominent and more obscure
+## Open Sources
 
-### open
-#### whois
+### whois
 
 >The **whois** utility looks up records in the databases maintained by several Network Information Centers (NICs).[^manpage-whois]
 
 [^manpage-whois]: `man whois`, BSD Manpages on OS X 10.10 Yosemite
 
-`whois` queries are used to get information about users who have registered or administer an internet domain (e.g. `example.org`). These databases by default require personal details to be entered, among them full name, a complete postal address, phone number and e-mail address. While nowadays many providers offer a paid option called "whois privacy" to protect against that querying a site's whois entry may present valuable information about the owner.
+`whois` queries are used to get information about users who have registered or administer an internet domain (e.g. `example.org`). While nowadays many providers offer a paid option called "whois privacy" to protect against that querying a site's whois entry may present valuable information about the owner. These databases by default require personal details to be entered, among them:
 
-### semi-open
-#### government records
+- full name
+- complete postal address
+- phone number 
+- e-mail address
 
-* ZMR -
+## Semi-open Sources
 
+### Government records
 
-#### Social networks
+The **Austrian Central Civic Register** (ZMR) can be accessed electronically not only by law enforcement, but also by professions for which regularly need access in order to conduct their business or enforce the rights of their clients. This access is granted after having requested such permanent access rights. Government officials responsible for the local civic registers are also granted access rights. Furthermore, it is possible for an individual to request information from the ZMR about another person meeting certain conditions (possessing the knowledge to uniquely identify the person of whom data has been requested - the requester's ZMR number will be stored however). Social security services and "Gemeindeverbände" (German "unions of town communities") may also be granted access.[^ris-text]
+
+[^ris-text]: [Meldegesetz, Fassung vom 04. 10. 2014](https://www.ris.bka.gv.at/GeltendeFassung/Bundesnormen/10005799/MeldeG%2c%20Fassung%20vom%2004.10.2014.pdf), Rechtsinformationssystem des Bundes, 2014-10-04
+
+Amongst the data contained in a person's ZMR entry are: 
+
+- full name
+- sex
+- current living address(es)
+- date of birth
+- place of birth
+- citizenship
+
+### Social networks
 
 * xing, g+, yt, fb
 
