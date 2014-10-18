@@ -87,20 +87,38 @@ In the eyes of law enforcement, the evidence proved that the person was indeed t
 
 ## Steps taken by law enforcement
 
-The following is essentially a summary of the steps law enforcement took in regard to OSINT[^imgur-report].
+The following is essentially a summary of the steps law enforcement took in regard to OSINT[^imgur-report] with added commentary in italics.
 
 [^imgur-report]: ["Anlassbericht Michael R"](http://imgur.com/a/15Hrg), imgur, 2014-10-04
 
 * Law enforcement was listening to the AnonOps/austria IRC. Documents mention them getting kicked repeatedly for idling.
-* Law enforcement concluded that the assumption that a suspect would be "googled" is not common knowlegdge but can only be known through years of IT expercience and ordered an official "Open-Source-Recherche" (Open source research).
+
+* Law enforcement concluded that the assumption that a suspect would be "googled" is not common knowlegdge but can only be known through years of IT expercience and ordered an official "Open-Source-Recherche" (Open source research).  
+  *Certainly, by now it is common knowledge that if your new company will check out your Facebook profile before hiring you, police is going to consult their sources - open or closed - in order to investigate. One does not need a technical background for that assumption.*
+
 * During the OSINT process the focus was given to "a person with IT knowledge" "using the nickname *The_Dude*".
-* Law enforcement follows leads during which anonymous chat participants suspect that *The_Dude* is living either in Tulln, Austria or Krems, Austria. (Neither of those statements are confirmed or denied by the account in question.)
+
+* Law enforcement pursues leads during which anonymous chat participants suspect that *The_Dude* is living either in Tulln, Austria or Krems, Austria.  
+  *None of the possible locations was confirmed, denied or even commented on by the IRC nick in question. Neither were the locations more than guesses by other IRC users unknown to law enforcement. This merely qualifies as a hint, not as a landmark discovery for further use during investigating.*
+
 * On the suspect's private homepage, law enforcement discovered an old image that looked similar to "The Dude" which is a character from the movie "The Big Lebowski"[^imdb-lebowski]. This prompted an anonymous comment years ago saying "It's the dude." (The photo was not the suspect.) Law enforcement concluded that it has to be the suspect since "person in this kind of milieu almost never or never change their nicknames".
+
 * Law enforcement used a `whois` query as well in addition to browsing the website to acquire the website admin's personal information as well as his areas of interest.
+
 * Law enforcement searched various social networks for information about the suspect and found evidence on his career in IT on his Xing profile. This and his "connection" to a popular website having Internet Politics, anonymity and data protection among its topics prompted them to investigate further and send a request to the Austrian Central Civic Register.
-* The information on Xing gives reason to suspect the suspect's involvement in past actions of AnonAustria, though these are terrifyingly small nuggets of information to construct a case. Amongst those is "was in the past an employee of the company in whose online forum a link to a data dump surfaced".
-* Law enforcement cross checked dates of postings of videos on Youtube with the dates of corresponding tweets on the @anonaustria Twitter account.
+
+* The information on Xing gave law enforcement reason to suspect the suspect's involvement in past actions of AnonAustria, though these are terrifyingly small nuggets of information to construct a case. Amongst those is "was in the past an employee of the company in whose online forum a link to a data dump surfaced".  
+  *Amongst the fairly weak evidence law enforcement came up with, this one is strikingly irrelevant. The suspect had no link to the account in question. Being automatically tied to all sorts of electronic messaging systems of your former employers can't be a link that we think of as valid. The surfacing of a link to a pastebin containing a data dump does not make all users of a message board co-conspirators.*
+
+* Law enforcement cross checked dates of postings of videos on Youtube with the dates of corresponding tweets on the [@anonaustria][][^twitter-anonaustria] Twitter account.  
+  *The immediate posting of this data on Twitter does not suggest that the poster is the same as the one of the dump. It only means that it was found to be of interest to the followers of said account by one or more of the people responsible for running said account. A re-post of a link does not signify approval or disapproval per se.*
+
+[@anonaustria]: https://twitter.com/anonaustria
+
+[^twitter-anonaustria]: The account has been suspended according to [a report by futurezone.at on 2014-10-17](http://futurezone.at/digital-life/twitter-sperrt-account-von-anonaustria/91.763.766)
+
 * Law enforcement checks the suspect's twitter account and comes across several postings related to InfoSec as well as statements which are generally misunderstood. Amongst those is "OH: ", which is Twitter jargon for "overheard", meaning you're citing someone you've met offline.
+
 * Law enforcement used combined physical and digital observation to conclude that the suspect was absent for the same time from IRC and/or left meaningless short messages which could've been sent from his phone to keep connected to IRC.
 
 [^imdb-lebowski]: [The Big Lebowski](http://www.imdb.com/title/tt0118715/), IMDB, 2014-10-04
