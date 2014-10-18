@@ -126,3 +126,7 @@ The following is essentially a summary of the steps law enforcement took in rega
 # DIY OSINT
 
 # Conclusions
+
+In closing I would like to draw your attention to two different types of conclusions. There's one for InfoSec enthusiasts and one for everyone.
+
+On the topic of information security it is important to stress how vital OSINT already is for the work of secret services and law enforcement.
