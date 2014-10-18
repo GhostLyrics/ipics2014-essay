@@ -130,3 +130,7 @@ The following is essentially a summary of the steps law enforcement took in rega
 In closing I would like to draw your attention to two different types of conclusions. There's one for InfoSec enthusiasts and one for everyone.
 
 On the topic of information security it is important to stress how vital OSINT already is for the work of secret services and law enforcement.
+
+For private individuals it is necessary to point out how much of the information we produce on a daily basis can be used against one. Be it black-hat hackers or be it a corrupt government or the mechanism used by oppressive regimes, all kinds of information are collected and assembled into a profile. This profile is prone to misuse for nefarious purposes. As shown in the examples of DIY OSINT, seemingly random pieces of information reveal many details about the systems we are using, our workflow patterns, our relationships with others, geographic locations, political points of view, passwords, personal interests are just the tip of the iceberg.
+
+While I don't think that we should all refrain from using online services, social networks and the sort, a certain sense of awareness is necessary for their use. The internet does not forget, many things just get archived. While there is currently a lot of talk about an individual's "right to be forgotten" in Europe, having certain kinds of information getting on the public internet means it needs to be seen as compromised. Media competence is a essential skill for every human being on the internet.
