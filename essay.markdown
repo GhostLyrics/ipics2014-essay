@@ -75,7 +75,7 @@ Amongst the data contained in a person's ZMR entry are:
 
 The advent of open source intelligence has not been equally helpful in every case. Officers struggling to keep up with rapidly evolving technology are something that can make or break a case. While a recent article about cracking a murder case with help from investigating Twitter accounts[^elle-article] is a glorious tale for OSINT, the one that happened in Austria was quite different.
 
-[^elle-retweet]: ["TRIAL BY TWITTER"](http://www.elle.com/life-love/society-career/skylar-neese-disappearance-twitter-4), elle.com, 2014-10-18
+[^elle-retweet]: ["TRIAL BY TWITTER"](http://www.elle.com/life-love/society-career/skylar-neese-disappearance-twitter-4), elle.com, page 4, 2014-10-18
 
 [^elle-article]: ["TRIAL BY TWITTER"](http://www.elle.com/life-love/society-career/skylar-neese-disappearance-twitter), elle.com, 2014-10-18
 
