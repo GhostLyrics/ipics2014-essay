@@ -1,3 +1,7 @@
+% About Open Source Intelligence
+% Alexander Skiba (mail@ghostlyrics.net)
+% 2014-10-19
+
 # Introduction
 
 We live in a world in which seemingly everything is connected. We freely, globally share personal information which would be only known to a small circle of friends in former times. We give up control over some of our data each and every day.
