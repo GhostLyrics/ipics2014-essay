@@ -75,6 +75,14 @@ Amongst the data contained in a person's ZMR entry are:
 
 ### Social networks
 
+Different social networks apply different standards for protecting their users' data.
+
+**Facebook** allows many different forms of privacy protection and quite granular settings who is able to see which information of your profile, your likes and your photos. It is also regularly facing harsh critique for its tendency to change those protection mechanisms and policies, often leaving users unprotected instead of automatically opting in to more protection. Many things are by default left open to discover by registered users - so as to find new friendships, share interests and re-discover people one might have forgotten from one's past.
+
+**Google+** deserves special mention because Google automatically opted in many users of their other products in order to boost their user counts in the beginning of the network. Therefore, even though many users have left G+ after its initial boom, many profiles are still lying around and can be searched for information.
+
+TODO: social network section
+
 * xing, g+, yt, fb
 
 # Learning from a bad example
