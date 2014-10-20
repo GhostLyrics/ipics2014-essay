@@ -156,6 +156,34 @@ People are often talkative, rambling and careless on Twitter. Let's for the sake
 
 [^github-my-csv]: The `.csv` containing the data set is in the corresponding [github repository](https://github.com/ghostlyrics/ipics2014-essay).
 
+Going through the tweets from oldest to newest, there are many things to learn.
+
+* running Apple's OS X 10.10 during public beta phase, though it does not say if in a VM or on bare metal. Also does not say if testing or for production.
+* access to Apple developer portal
+* proponent of encryption
+* running the package manager Homebrew, building packages for other users
+* using Dash (Documentation manager software)
+* contacted @esteele with software questions, must be using Plone at some point
+* advocate of fully automatic security updates with no user interaction
+* is user of Valve`s Steam (video game store)
+* is user of Netflix (video streaming portal)
+* has a spouse
+* probably has a credit card
+* is familiar with cryptographic principles
+* is interested in InfoSec (follows and retweets @JZziarski, @SwiftOnSecurity, @viss)
+* watched Elementary (detective TV series) on more than one occation
+* is opposed to recent #gamergate controversy
+* uses Marked (Markdown parsing app)
+* has at least basic programming knowledge (mention of "segfault")
+* is user of Instapaper (read it later service)
+* preordered @siracusa's book about OS 10.10 Yosemite (interest in Apple)
+* uses pandoc (document converter)
+* is interested in systems administration (follows and interacts with @maclemon, @grauhut)
+* is taking courses called "OAD", "SASE" this term at university
+* works in company as a sysadmin where Debian and Ubuntu is used
+
+As you can see, with only the latest 200 tweets an extensive profile about a person can be build. Keep in mind that many tweets were not that helpful since they were retweets or mentions and would have required further analysis. Another important note is that metadata has not been taken into account for this short analysis. Using that, one could've build a usage profile combining timestamps of dates, Twitter client IDs, geolocation data and context of mentions.
+
 ## There's more. Lots more.
 
 Now, assume that this essay has been completed and published. Let's enter "Alexander Skiba ghostlyrics" into the search engine of choice. See where it points you. There are various profiles on sites, social media, open source trackers, etc. Granted, by far not everyone is as public a person as I am. I have mostly left out information which can be used to built a profile of my personal interests and more hobbies in order to keep this somewhat interesting for the reader.
