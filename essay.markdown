@@ -141,6 +141,26 @@ The following is essentially a summary of the steps law enforcement took in rega
 
 # DIY OSINT
 
+## The experiment
+Let's try a little experiment. Take some of my information and see what can be learned from here. Right on the front of this essay is my e-mail address. Let's check the domain it belongs to. Okay, now we have have my personal site. 
+
+## Website
+At the first glance, you can learn that I study at the TU Graz (**location, profession**), and that I enjoy writing, so it will probably be easy to find more information. You already had my **e-mail address** and my **full name** from the frontpage of this essay. However, as can be seen on the site, I have a Twitter account. Maybe, let's also look through the last 5 posts on the website, to check what has happened.
+
+## Twitter
+People are often talkative, rambling and careless on Twitter. Let's for the sake of this experiment take a look at the last 200 of my tweets and see which pieces of information can be gained. The tweets can - after registering for an API token - be downloaded with `t`[^github-t], a commandline tool for twitter using the following command.[^github-my-csv]
+
+    t timeline ghostlyrics -n 200 --csv >> timeline.csv.
+
+[^github-t]: [t - A command-line power tool for Twitter](https://github.com/sferik/t), github, user:sferik, 2014-10-19
+
+[^github-my-csv]: The `.csv` containing the data set is in the corresponding [github repository](https://github.com/ghostlyrics/ipics2014-essay).
+
+## There's more. Lots more.
+Now, assume that this essay has been completed and published. Let's enter "Alexander Skiba about open source intelligence" into the search engine of choice. Ah, it points to github.
+
+TODO: diy section
+
 # Conclusions
 
 In closing I would like to draw your attention to two different types of conclusions. There's one for InfoSec enthusiasts and one for everyone.
