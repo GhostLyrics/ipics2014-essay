@@ -147,6 +147,8 @@ Let's try a little experiment. Take some of my information and see what can be l
 ## Website
 At the first glance, you can learn that I study at the TU Graz (**location, profession**), and that I enjoy writing, so it will probably be easy to find more information. You already had my **e-mail address** and my **full name** from the frontpage of this essay. However, as can be seen on the site, I have a Twitter account. Maybe, let's also look through the last 5 posts on the website, to check what has happened.
 
+TODO: website data
+
 ## Twitter
 People are often talkative, rambling and careless on Twitter. Let's for the sake of this experiment take a look at the last 200 of my tweets and see which pieces of information can be gained. The tweets can - after registering for an API token - be downloaded with `t`[^github-t], a commandline tool for twitter using the following command.[^github-my-csv]
 
@@ -195,6 +197,8 @@ However, in many cases information about a person is freely available. It's hard
 In closing I would like to draw your attention to two different types of conclusions. There's one for InfoSec enthusiasts and one for everyone.
 
 On the topic of information security it is important to stress how vital OSINT already is for the work of secret services and law enforcement.
+
+TODO: Infosec conclusion
 
 For private individuals it is necessary to point out how much of the information we produce on a daily basis can be used against one. Be it black-hat hackers or be it a corrupt government or the mechanism used by oppressive regimes, all kinds of information are collected and assembled into a profile. This profile is prone to misuse for nefarious purposes. As shown in the examples of DIY OSINT, seemingly random pieces of information reveal many details about the systems we are using, our workflow patterns, our relationships with others, geographic locations, political points of view, passwords, personal interests are just the tip of the iceberg.
 
