@@ -52,6 +52,10 @@ One needs only look at the TV series "Numb3rs"[^imdb-numbers] which aired severa
 - phone number 
 - e-mail address
 
+### Shodan
+
+TODO: shodan section
+
 ## Semi-open Sources
 
 ### Government records
