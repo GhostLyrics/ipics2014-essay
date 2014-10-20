@@ -157,9 +157,10 @@ People are often talkative, rambling and careless on Twitter. Let's for the sake
 [^github-my-csv]: The `.csv` containing the data set is in the corresponding [github repository](https://github.com/ghostlyrics/ipics2014-essay).
 
 ## There's more. Lots more.
-Now, assume that this essay has been completed and published. Let's enter "Alexander Skiba about open source intelligence" into the search engine of choice. Ah, it points to github.
 
-TODO: diy section
+Now, assume that this essay has been completed and published. Let's enter "Alexander Skiba ghostlyrics" into the search engine of choice. See where it points you. There are various profiles on sites, social media, open source trackers, etc. Granted, by far not everyone is as public a person as I am. I have mostly left out information which can be used to built a profile of my personal interests and more hobbies in order to keep this somewhat interesting for the reader.
+
+However, in many cases information about a person is freely available. It's hard to hide from the internet - even if you are not on social media, your friends probably are. And if you are on an event together, there's a good chance that you will be featured on photos and in consequence on social media, maybe even tagged with your name, so that the social network can create a placeholder account which is ready for you should you choose to join said service.
 
 # Conclusions
 
