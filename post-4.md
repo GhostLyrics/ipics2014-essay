@@ -47,10 +47,10 @@ Is Markdown our current answer for well formatted writing with little distractio
 
 **Troy Hunt** writes about how bad eBay's password advices are in [The eBay breach: answers to the questions that will inevitably be asked][10]. I've encountered that form myself when changing my password and found myself cursing without end. Not only had they disabled pasting ([which is bad][11]) but also the form complained about me using space characters in my password. I assure you, there were none.
     
-       [10]: http://www.troyhunt.com/2014/05/the-ebay-breach-answers-to-questions.html
+   [10]: http://www.troyhunt.com/2014/05/the-ebay-breach-answers-to-questions.html
    [11]: http://www.troyhunt.com/2014/05/the-cobra-effect-that-is-disabling.html
 
-v4<GOi]=([k.[8a,++{D
+    v4<GOi]=([k.[8a,++{D
     &PTs5V>:2:E!#vb')hUK
     
 

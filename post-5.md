@@ -127,5 +127,3 @@ I started using [Overcast][38] without its IAP since I wanted to see whether I r
    [50]: http://www.polygon.com/2014/5/7/5690978/hack-n-slash-overview-video
    [51]: http://www.polygon.com/2014/5/20/5735282/transistor-overview-video
    [52]: http://www.polygon.com/2014/5/21/5739008/wolfenstein-the-new-order-overview-video
-
-## may contain traces of Apple
