@@ -147,7 +147,7 @@ At the first glance, you can learn that I study at the TU Graz (**location, prof
 
     read2text <URL> >> <filename>.md
 
-[^brett-read2text]: http://brettterpstra.com/2012/01/04/scripting-readability-markdownify-for-clipping-web-pages/
+[^brett-read2text]: [read2text - command-line tool for clipping pages as markdown](http://brettterpstra.com/2012/01/04/scripting-readability-markdownify-for-clipping-web-pages/), brettterpstra.com, 2014-10-22
 
 There are nuggets of information that can be extracted by only looking at those 5 latest posts:
 
