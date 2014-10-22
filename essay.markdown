@@ -37,7 +37,7 @@ One needs only look at the TV series "Numb3rs"[^imdb-numbers] which aired severa
 
 [^imdb-numbers]: [Numb3rs (TV Series 2005-2010)](http://www.imdb.com/title/tt0433309/), IMDB, 2014-08-28
 
-## Open Sources
+## Sources
 
 ### whois
 
@@ -55,8 +55,6 @@ One needs only look at the TV series "Numb3rs"[^imdb-numbers] which aired severa
 ### Shodan
 
 TODO: shodan section
-
-## Semi-open Sources
 
 ### Government records
 
