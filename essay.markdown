@@ -145,7 +145,16 @@ Let's try a little experiment. Take some of my information and see what can be l
 ## Website
 At the first glance, you can learn that I study at the TU Graz (**location, profession**), and that I enjoy writing, so it will probably be easy to find more information. You already had my **e-mail address** and my **full name** from the frontpage of this essay. However, as can be seen on the site, I have a Twitter account. Maybe, let's also look through the last 5 posts on the website, to check what has happened.
 
-TODO: website data
+There are nuggets of information that can be extracted by only looking at those 5 latest posts:
+
+* has a girlfriend
+* invested significant time into video games
+* owns at least a Nintendo DS, an iOS device, an Xbox 360, a PC
+* apart from English, speaks German
+* joined likeminded people at university for Linux related topics
+* prefers to work in silence
+* is interested in programming, linux, infosec, video game development
+* uses Steam, iTunes, Kindle
 
 ## Twitter
 People are often talkative, rambling and careless on Twitter. Let's for the sake of this experiment take a look at the last 200 of my tweets and see which pieces of information can be gained. The tweets can - after registering for an API token - be downloaded with `t`[^github-t], a commandline tool for twitter using the following command.[^github-my-csv]
