@@ -143,7 +143,11 @@ The following is essentially a summary of the steps law enforcement took in rega
 Let's try a little experiment. Take some of my information and see what can be learned from here. Right on the front of this essay is my e-mail address. Let's check the domain it belongs to. Okay, now we have have my personal site. 
 
 ## Website
-At the first glance, you can learn that I study at the TU Graz (**location, profession**), and that I enjoy writing, so it will probably be easy to find more information. You already had my **e-mail address** and my **full name** from the frontpage of this essay. However, as can be seen on the site, I have a Twitter account. Maybe, let's also look through the last 5 posts on the website, to check what has happened.
+At the first glance, you can learn that I study at the TU Graz (**location, profession**), and that I enjoy writing, so it will probably be easy to find more information. You already had my **e-mail address** and my **full name** from the frontpage of this essay. However, as can be seen on the site, I have a Twitter account. Maybe, let's also look through the last 5 posts on the website, to check what has happened. The posts have been downloaded by using `read2text`[^brett-read2text] with the following command.
+
+    read2text <URL> >> <filename>.md
+
+[^brett-read2text]: http://brettterpstra.com/2012/01/04/scripting-readability-markdownify-for-clipping-web-pages/
 
 There are nuggets of information that can be extracted by only looking at those 5 latest posts:
 
@@ -155,6 +159,8 @@ There are nuggets of information that can be extracted by only looking at those 
 * prefers to work in silence
 * is interested in programming, linux, infosec, video game development
 * uses Steam, iTunes, Kindle
+
+While this is already valuable information about own's personal life and hobbies, more insight can be gained by collecting and combining data from other sources. This could be profiles on website (e.g. Steam, Kindle) or social media. For the purpose of the experiment this essay sticks to the aforementioned Twitter account.
 
 ## Twitter
 People are often talkative, rambling and careless on Twitter. Let's for the sake of this experiment take a look at the last 200 of my tweets and see which pieces of information can be gained. The tweets can - after registering for an API token - be downloaded with `t`[^github-t], a commandline tool for twitter using the following command.[^github-my-csv]
