@@ -211,7 +211,7 @@ In closing I would like to draw your attention to two different types of conclus
 
 On the topic of information security it is important to stress how vital OSINT already is for the work of secret services and law enforcement.
 
-TODO: Infosec conclusion
+For InfoSec enthusiasts the value of OSINT is immense. They offer a treasure trove of information for skilled researchers like penetration testers and law enforcement. However, the darker side is that they may also offer clues about passwords, security questions or whereabouts for criminals. As such, it can be understandable if there company policies against the use of social media. These will often prompt employees to use their own devices for those purposes, possibly undermining the previously established security protocols.
 
 For private individuals it is necessary to point out how much of the information we produce on a daily basis can be used against one. Be it black-hat hackers or be it a corrupt government or the mechanism used by oppressive regimes, all kinds of information are collected and assembled into a profile. This profile is prone to misuse for nefarious purposes. As shown in the examples of DIY OSINT, seemingly random pieces of information reveal many details about the systems we are using, our workflow patterns, our relationships with others, geographic locations, political points of view, passwords, personal interests are just the tip of the iceberg.
 
