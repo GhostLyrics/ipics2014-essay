@@ -115,7 +115,8 @@ The following is essentially a summary of the steps law enforcement took in rega
 * Law enforcement pursues leads during which anonymous chat participants suspect that *The_Dude* is living either in Tulln, Austria or Krems, Austria.  
   *None of the possible locations was confirmed, denied or even commented on by the IRC nick in question. Neither were the locations more than guesses by other IRC users unknown to law enforcement. This merely qualifies as a hint, not as a landmark discovery for further use during investigating.*
 
-* On the suspect's private homepage, law enforcement discovered an old image that looked similar to "The Dude" which is a character from the movie "The Big Lebowski"[^imdb-lebowski]. This prompted an anonymous comment years ago saying "It's the dude." (The photo was not the suspect.) Law enforcement concluded that it has to be the suspect since "person in this kind of milieu almost never or never change their nicknames".
+* On the suspect's private homepage, law enforcement discovered an old image that looked similar to "The Dude" which is a character from the movie "The Big Lebowski"[^imdb-lebowski]. This prompted an anonymous comment years ago saying "It's the dude." (The photo was not the suspect.) Law enforcement concluded that it has to be the suspect since "person in this kind of milieu almost never or never change their nicknames".  
+  *This part is especially horrifying given that law enforcement could've compared different photos (e.g. from a possible driver's licence) in order to make sure the person on the photo is even the person to whom the website is registered. Moreover, it would've rather easy to check whether anonymous comments were allowed on said gallery image in order to verify if the information is in fact trustworthy.*
 
 * Law enforcement used a `whois` query as well in addition to browsing the website to acquire the website admin's personal information as well as his areas of interest.
 
@@ -131,7 +132,8 @@ The following is essentially a summary of the steps law enforcement took in rega
 
 [^twitter-anonaustria]: The account has been suspended according to [a report by futurezone.at on 2014-10-17](http://futurezone.at/digital-life/twitter-sperrt-account-von-anonaustria/91.763.766)
 
-* Law enforcement checks the suspect's twitter account and comes across several postings related to InfoSec as well as statements which are generally misunderstood. Amongst those is "OH: ", which is Twitter jargon for "overheard", meaning you're citing someone you've met offline.
+* Law enforcement checks the suspect's twitter account and comes across several postings related to InfoSec as well as statements which are generally misunderstood. Amongst those is "OH: ", which is Twitter jargon for "overheard", meaning you're citing someone you've met offline.  
+  *One would assume that people sent on Open Source Intelligence missions are familiar with new media, new technology, at least some of the jargon that is common on the most popular social networks as well as general internet culture. This shows exactly how a lack of said familiarity can compromise one's line of thought due to a misunderstanding.*
 
 * Law enforcement used combined physical and digital observation to conclude that the suspect was absent for the same time from IRC and/or left meaningless short messages which might have been sent from his phone to keep connected to IRC.
 
