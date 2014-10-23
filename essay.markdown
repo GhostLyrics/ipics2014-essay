@@ -54,7 +54,13 @@ One needs only look at the TV series "Numb3rs"[^imdb-numbers] which aired severa
 
 ### Shodan
 
-TODO: shodan section
+>**SHODAN** is a search engine that lets you find specific computers (routers, servers, etc.) using a variety of filters. Some have also described it as a public port scan directory or a search engine of banners.[^shodan-help]
+
+[^shodan-help]: [man Shodan](http://www.shodanhq.com/help), shodan.io, 2014-10-23
+
+Shodan indexes the banners obtained from port scanning IP addresses. This is often a good indicator of which software is running, which version of the software is running and which system is running the software. The results of any search can be easily filtered. In many cases, the banner of a service states its default password which can be an attack vector. In other instances, passwords may be simply not set, as evident by an experiment by Dan Tentler[^atenlabs-viss] where unprotected VNC clients were screenshotted and the more amusing results posted on Twitter while notifications were sent out to the most of the owners.
+
+[^atenlabs-viss]: ["Scanning the whole internet"](http://atenlabs.com/blog/scanning-the-whole-internet/), ATENLABS, 2014-10-23
 
 ### Government records
 
