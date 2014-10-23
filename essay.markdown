@@ -165,7 +165,7 @@ While this is already valuable information about own's personal life and hobbies
 ## Twitter
 People are often talkative, rambling and careless on Twitter. Let's for the sake of this experiment take a look at the last 200 of my tweets and see which pieces of information can be gained. The tweets can - after registering for an API token - be downloaded with `t`[^github-t], a commandline tool for twitter using the following command.[^github-my-csv]
 
-    t timeline ghostlyrics -n 200 --csv >> timeline.csv.
+    t timeline ghostlyrics -n 200 --csv >> timeline.csv
 
 [^github-t]: [t - A command-line power tool for Twitter](https://github.com/sferik/t), github, user:sferik, 2014-10-19
 
