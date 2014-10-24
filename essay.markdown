@@ -128,7 +128,7 @@ The following is essentially a summary of the steps law enforcement took in rega
 
 * Law enforcement searched various social networks for information about the suspect and found evidence on his career in IT on his XING profile. This and his "connection" to a popular website having Internet Politics, anonymity and data protection among its topics prompted them to investigate further and send a request to the Austrian Central Civic Register.
 
-* The information on Xing gave law enforcement reason to suspect the suspect's involvement in past actions of AnonAustria, though these are terrifyingly small nuggets of information to construct a case. Amongst those is "was in the past an employee of the company in whose online forum a link to a data dump surfaced".  
+* The information on XING gave law enforcement reason to suspect the suspect's involvement in past actions of AnonAustria, though these are terrifyingly small nuggets of information to construct a case. Amongst those is "was in the past an employee of the company in whose online forum a link to a data dump surfaced".  
   *Amongst the fairly weak evidence law enforcement came up with, this one is strikingly irrelevant. The suspect had no link to the account in question. Being automatically tied to all sorts of electronic messaging systems of your former employers can't be a link that we think of as valid. The surfacing of a link to a pastebin containing a data dump does not make all users of a message board co-conspirators.*
 
 * Law enforcement cross checked dates of postings of videos on Youtube with the dates of corresponding tweets on the @[anonaustria][][^twitter-anonaustria] Twitter account.  
