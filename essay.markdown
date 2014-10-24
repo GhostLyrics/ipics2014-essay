@@ -45,7 +45,7 @@ One needs only look at the TV series "Numb3rs"[^imdb-numbers] which aired severa
 
 [^manpage-whois]: `man whois`, BSD Manpages on OS X 10.10 Yosemite
 
-`whois` queries are used to get information about users who have registered or administer an internet domain (e.g. `example.org`). While nowadays many providers offer a paid option called "whois privacy" to protect against that querying a site's whois entry may present valuable information about the owner. These databases by default require personal details to be entered, among them:
+`whois` queries are used to get information about users who have registered or administer an Internet domain (e.g. `example.org`). While nowadays many providers offer a paid option called "whois privacy" to protect against that, querying a site's whois entry may present valuable information about the owner. These databases by default require personal details to be entered, among them:
 
 - full name
 - complete postal address
