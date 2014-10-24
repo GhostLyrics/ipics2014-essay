@@ -99,7 +99,7 @@ The advent of open source intelligence has not been equally helpful in every cas
 
 [^elle-article]: ["TRIAL BY TWITTER"](http://www.elle.com/life-love/society-career/skylar-neese-disappearance-twitter), elle.com, 2014-10-18
 
-In 2011 there was a case in which the use of open source intelligence was neatly documented and the documents made public by the suspect[^imgur-documents] which later proved to be innocent. In this case the use of OSINT was used to find (or, as one might argue, construct) evidence incriminating the person of "Re-engagement in NS activities".
+In 2011 there was a case in which the use of open source intelligence was neatly documented and the documents made public by the suspect[^imgur-documents] which later proved to be innocent. In this case OSINT was used to find (or, as one might argue, construct) evidence incriminating the person of "Re-engagement in NS activities".
 
 [^imgur-documents]: ["Gerichtsakt zum AnonAustria Ermittlungsverfahren gegen Michael R."](http://huntinganonaustria.imgur.com), imgur, 2014-09-17
 
