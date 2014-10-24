@@ -181,7 +181,7 @@ People are often talkative, rambling and careless on Twitter. Let's for the sake
 
 Going through the tweets from oldest to newest, there are many things to learn.
 
-* running Apple's OS X 10.10 during public beta phase, though it does not say if in a VM or on bare metal. Also does not say if testing or for production.
+* running Apple's OS X 10.10 during public beta phase, though it does not say whether in a VM or on bare metal. Also does not say if testing or for production.
 * access to Apple developer portal
 * proponent of encryption
 * running the package manager Homebrew, building packages for other users
