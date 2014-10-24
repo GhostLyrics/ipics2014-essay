@@ -185,25 +185,21 @@ Going through the tweets from oldest to newest, there are many things to learn.
 * access to Apple developer portal
 * proponent of encryption
 * running the package manager Homebrew, building packages for other users
-* using Dash (Documentation manager software)
+* using Dash (Documentation manager software), Marked (Markdown parsing app), pandoc (document converter)
 * contacted @esteele with software questions, must be using Plone at some point
 * advocate of fully automatic security updates with no user interaction
-* is user of Valve`s Steam (video game store)
-* is user of Netflix (video streaming portal)
+* is user of Valve`s Steam (video game store), Netflix (video streaming portal), Instapaper (read it later service)
 * has a spouse
 * probably has a credit card
 * is familiar with cryptographic principles
 * is interested in InfoSec (follows and retweets @JZziarski, @SwiftOnSecurity, @viss)
 * watched Elementary (detective TV series) on more than one occasion
 * is opposed to recent #gamergate controversy
-* uses Marked (Markdown parsing app)
 * has at least basic programming knowledge (mention of "segfault")
-* is user of Instapaper (read it later service)
 * preordered @siracusa's book about OS 10.10 Yosemite (interest in Apple)
-* uses pandoc (document converter)
 * is interested in systems administration (follows and interacts with @maclemon, @grauhut)
 * is taking courses called "OAD", "SASE" this term at university
-* works in company as a sysadmin where Debian and Ubuntu is used
+* works as sysadmin in a company where Debian and Ubuntu are used
 
 As you can see, with only the latest 200 tweets an extensive profile about a person can be build. Keep in mind that many tweets were not that helpful since they were retweets or mentions and would have required further analysis. Another important note is that metadata has not been taken into account for this short analysis. Using that, one could've build a usage profile combining timestamps of dates, Twitter client IDs, geolocation data and context of mentions.
 
