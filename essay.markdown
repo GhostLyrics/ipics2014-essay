@@ -6,7 +6,7 @@
 
 We live in a world in which seemingly everything is connected. We freely, globally share personal information which would be only known to a small circle of friends in former times. We give up control over some of our data each and every day.
 
-A terrifying amount of this data is easily available online to an attacker and can be used to create a frighteningly exact profile of a person. Often it doesn't even take a lot of effort, knowledge or experience to harvest said information.
+A terrifying amount of this data is easily available online to an attacker and can be used to create a frighteningly exact profile of a person. Often it does not even take a lot of effort, knowledge or experience to harvest said information.
 
 There are, however those who have mastered the usage of such information: black hat hackers, law enforcement services and secret services.
 The term that has been coined for collecting this kind of freely accessible intelligence is "Open-source intelligence"[^usnews-opensource]. This term is commonly abbreviated as "OSINT".
@@ -21,7 +21,7 @@ The term that has been coined for collecting this kind of freely accessible inte
 
 [^dictionary-data_mining]: [Definition of "data mining"](http://dictionary.reference.com/browse/data%20mining?s=t), Dictionary.com, 2014-08-28
 
-When data mining is mentioned in the context of open source intelligence, there's a good chance someone will be referring to analyzing data sources like IRC logs, Twitter, Open Data sources, archives of mailing-lists, public Facebook and Google+ profiles. This is just the tip of the iceberg. That I just did this enumeration without any research acts as a good reminder how easy it is to find open sources. There are more sources to OSINT this document aims to shed light on.
+When data mining is mentioned in the context of open source intelligence, there is a good chance someone will be referring to analyzing data sources like IRC logs, Twitter, Open Data sources, archives of mailing-lists, public Facebook and Google+ profiles. This is just the tip of the iceberg. That I just did this enumeration without any research acts as a good reminder how easy it is to find open sources. There are more sources to OSINT this document aims to shed light on.
 
 ### Link analysis
 
