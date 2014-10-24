@@ -138,8 +138,8 @@ The following is essentially a summary of the steps law enforcement took in rega
 
 [^twitter-anonaustria]: The account has been suspended according to [a report by futurezone.at on 2014-10-17](http://futurezone.at/digital-life/twitter-sperrt-account-von-anonaustria/91.763.766)
 
-* Law enforcement checks the suspect's twitter account and comes across several postings related to InfoSec as well as statements which are generally misunderstood. Amongst those is "OH: ", which is Twitter jargon for "overheard", meaning you're citing someone you've met offline.  
-  *One would assume that people sent on Open Source Intelligence missions are familiar with new media, new technology, at least some of the jargon that is common on the most popular social networks as well as general internet culture. This shows exactly how a lack of said familiarity can compromise one's line of thought due to a misunderstanding.*
+* Law enforcement checked the suspect's twitter account and came across several postings related to Information Security ("InfoSec") as well as statements which are generally misunderstood. Amongst those is "OH: ", which is Twitter jargon for "overheard", meaning you're citing someone you've met offline.  
+  *One would assume that people sent on Open Source Intelligence missions are familiar with new media, new technology, at least some of the jargon that is common on the most popular social networks as well as general Internet culture. This shows exactly how a lack of said familiarity can compromise one's line of thought due to a misunderstanding.*
 
 * Law enforcement used combined physical and digital observation to conclude that the suspect was absent for the same time from IRC and/or left meaningless short messages which might have been sent from his phone to keep connected to IRC.
 
