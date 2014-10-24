@@ -6,7 +6,7 @@
 
 We live in a world in which seemingly everything is connected. We freely, globally share personal information which would be only known to a small circle of friends in former times. We give up control over some of our data each and every day.
 
-A terrifying amount of this data is easily available online to an attacker and can be used to create a frighteningly exact profile of a person. Often it doesn't even take a lot of effort, knowlegdge or experience to harvest said information.
+A terrifying amount of this data is easily available online to an attacker and can be used to create a frighteningly exact profile of a person. Often it doesn't even take a lot of effort, knowledge or experience to harvest said information.
 
 There are, however those who have mastered the usage of such information: black hat hackers, law enforcement services and secret services.
 The term that has been coined for collecting this kind of freely accessible intelligence is "Open-source intelligence"[^usnews-opensource]. This term is commonly abbreviated as "OSINT".
@@ -21,7 +21,7 @@ The term that has been coined for collecting this kind of freely accessible inte
 
 [^dictionary-data_mining]: [Definition of "data mining"](http://dictionary.reference.com/browse/data%20mining?s=t), Dictionary.com, 2014-08-28
 
-When data mining is mentioned in the context of open source intelligence, there's a good chance someone will be referring to analyzing data sources like IRC logs, Twitter, Open Data sources, archives of mailing-lists, public Facebook and Google+ profiles. This is just the tip of the iceberg. That I just did this enumartion without any research acts as a good reminder how easy it is to find open sources. There are more sources to OSINT this document aims to shed light on.
+When data mining is mentioned in the context of open source intelligence, there's a good chance someone will be referring to analyzing data sources like IRC logs, Twitter, Open Data sources, archives of mailing-lists, public Facebook and Google+ profiles. This is just the tip of the iceberg. That I just did this enumeration without any research acts as a good reminder how easy it is to find open sources. There are more sources to OSINT this document aims to shed light on.
 
 ### Link analysis
 
@@ -31,7 +31,7 @@ When data mining is mentioned in the context of open source intelligence, there'
 
 As you can easily see from this quote taken straight from wikipedia, link analysis has been an important tool in investigating crimes long before the advent of computers and the current difficult situation with users' privacy concerning the data their device produce daily. Modern technology has only made this easier by giving researchers more different sources of information. Those sources often contain many more records than they did before efforts on standardization and globalization of data had reached their current scale.
 
-One needs only look at the TV series "Numb3rs"[^imdb-numbers] which aired several years ago from the time of this writing to see the great benefit scientific methods can have on crime investigation. Now, one must not assume that the show is to be taken for truth - it's a product of fiction of course. It is mentioned here not as an example how these investigations are pursued but to illustrate how much development of methods can help investigators. For example, the technique called "cellphone triangulation" which is both used (in combination with other technologies) to allow smartphones to provide their current location to running applications and by law enforcement when looking for missing persons. Also reknown mathematics company Wolfram partnered with the production company CBS to promote math awareness via the series.[^wolfram-numbers]
+One needs only look at the TV series "Numb3rs"[^imdb-numbers] which aired several years ago from the time of this writing to see the great benefit scientific methods can have on crime investigation. Now, one must not assume that the show is to be taken for truth - it's a product of fiction of course. It is mentioned here not as an example how these investigations are pursued but to illustrate how much development of methods can help investigators. For example, the technique called "cellphone triangulation" which is both used (in combination with other technologies) to allow smartphones to provide their current location to running applications and by law enforcement when looking for missing persons. Also renown mathematics company Wolfram partnered with the production company CBS to promote math awareness via the series.[^wolfram-numbers]
 
 [^wolfram-numbers]: ["The Math Behind Numb3rs"](http://numb3rs.wolfram.com), Wolfram Research, 2014-08-28
 
@@ -83,7 +83,7 @@ Different social networks apply different standards for protecting their users' 
 
 **Facebook** allows many different forms of privacy protection and quite granular settings who is able to see which information of your profile, your likes and your photos. It is also regularly facing harsh critique for its tendency to change those protection mechanisms and policies, often leaving users unprotected instead of automatically opting in to more protection. Many things are by default left open to discover by registered users - so as to find new friendships, share interests and re-discover people one might have forgotten from one's past.
 
-**Google+** deserves special mention because Google automatically opted in many users of their other products in order to boost their user counts in the beginning of the network. Therefore, even though many users have left G+ after its initial boom, many profiles are still lying around and can be searched for information. Almost every Youtube Account is also a Google+ account - something that Google hoped would stop harrassment on Youtube by enforcing a real name policy. 
+**Google+** deserves special mention because Google automatically opted in many users of their other products in order to boost their user counts in the beginning of the network. Therefore, even though many users have left G+ after its initial boom, many profiles are still lying around and can be searched for information. Almost every Youtube Account is also a Google+ account - something that Google hoped would stop harassment on Youtube by enforcing a real name policy. 
 
 **Twitter** is public by default and may therefore be one of the most interesting things to look at while researching. Users are highly spontaneous on Twitter, making the 140 character blurbs more diverse than information on other media, but also increasing the likelyhood of them posting at all. With the vast amount of publicly accessible tweets that a typical user generates over the span of an account's lifetime, the chances of building a good profile are quite high.
 
@@ -113,7 +113,7 @@ The following is essentially a summary of the steps law enforcement took in rega
 
 * Law enforcement was listening to the AnonOps/austria IRC. Documents mention them getting kicked repeatedly for idling.
 
-* Law enforcement concluded that the assumption that a suspect would be "googled" is not common knowlegdge but can only be known through years of IT expercience and ordered an official "Open-Source-Recherche" (Open source research).  
+* Law enforcement concluded that the assumption that a suspect would be "googled" is not common knowledge but can only be known through years of IT experience and ordered an official "Open-Source-Recherche" (Open source research).  
   *Certainly, by now it is common knowledge that if your new company will check out your Facebook profile before hiring you, police is going to consult their sources - open or closed - in order to investigate. One does not need a technical background for that assumption.*
 
 * During the OSINT process the focus was given to "a person with IT knowledge" "using the nickname *The_Dude*".
@@ -122,7 +122,7 @@ The following is essentially a summary of the steps law enforcement took in rega
   *None of the possible locations was confirmed, denied or even commented on by the IRC nick in question. Neither were the locations more than guesses by other IRC users unknown to law enforcement. This merely qualifies as a hint, not as a landmark discovery for further use during investigating.*
 
 * On the suspect's private homepage, law enforcement discovered an old image that looked similar to "The Dude" which is a character from the movie "The Big Lebowski"[^imdb-lebowski]. This prompted an anonymous comment years ago saying "It's the dude." (The photo was not the suspect.) Law enforcement concluded that it has to be the suspect since "person in this kind of milieu almost never or never change their nicknames".  
-  *This part is especially horrifying given that law enforcement could've compared different photos (e.g. from a possible driver's licence) in order to make sure the person on the photo is even the person to whom the website is registered. Moreover, it would've rather easy to check whether anonymous comments were allowed on said gallery image in order to verify if the information is in fact trustworthy.*
+  *This part is especially horrifying given that law enforcement could've compared different photos (e.g. from a possible driver's license) in order to make sure the person on the photo is even the person to whom the website is registered. Moreover, it would've rather easy to check whether anonymous comments were allowed on said gallery image in order to verify if the information is in fact trustworthy.*
 
 * Law enforcement used a `whois` query as well in addition to browsing the website to acquire the website admin's personal information as well as his areas of interest.
 
@@ -194,7 +194,7 @@ Going through the tweets from oldest to newest, there are many things to learn.
 * probably has a credit card
 * is familiar with cryptographic principles
 * is interested in InfoSec (follows and retweets @JZziarski, @SwiftOnSecurity, @viss)
-* watched Elementary (detective TV series) on more than one occation
+* watched Elementary (detective TV series) on more than one occasion
 * is opposed to recent #gamergate controversy
 * uses Marked (Markdown parsing app)
 * has at least basic programming knowledge (mention of "segfault")
