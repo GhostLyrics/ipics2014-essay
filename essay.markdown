@@ -132,7 +132,7 @@ The following is essentially a summary of the steps law enforcement took in rega
   *Amongst the fairly weak evidence law enforcement came up with, this one is strikingly irrelevant. The suspect had no link to the account in question. Being automatically tied to all sorts of electronic messaging systems of your former employers can't be a link that we think of as valid. The surfacing of a link to a pastebin containing a data dump does not make all users of a message board co-conspirators.*
 
 * Law enforcement cross checked dates of postings of videos on Youtube with the dates of corresponding tweets on the @[anonaustria][][^twitter-anonaustria] Twitter account.  
-  *The immediate posting of this data on Twitter does not suggest that the poster is the same as the one of the dump. It only means that it was found to be of interest to the followers of said account by one or more of the people responsible for running said account. A re-post of a link does not signify approval or disapproval per se.*
+  *The immediate posting of this data on Twitter does not suggest that the poster of the tweet is the same as the poster of the dump. It only means that it was found to be of interest to the followers of said account by one or more of the people responsible for running said account. A re-post of a link does not signify approval or disapproval per se.*
 
 [anonaustria]: https://twitter.com/anonaustria
 
@@ -141,7 +141,7 @@ The following is essentially a summary of the steps law enforcement took in rega
 * Law enforcement checked the suspect's twitter account and came across several postings related to Information Security ("InfoSec") as well as statements which are generally misunderstood. Amongst those is "OH: ", which is Twitter jargon for "overheard", meaning you're citing someone you've met offline.  
   *One would assume that people sent on Open Source Intelligence missions are familiar with new media, new technology, at least some of the jargon that is common on the most popular social networks as well as general Internet culture. This shows exactly how a lack of said familiarity can compromise one's line of thought due to a misunderstanding.*
 
-* Law enforcement used combined physical and digital observation to conclude that the suspect was absent for the same time from IRC and/or left meaningless short messages which might have been sent from his phone to keep connected to IRC.
+* Law enforcement used combined physical and digital observation to conclude that the suspect was absent for a certain time from IRC and/or left meaningless short messages which might have been sent from his phone to keep connected to IRC. This was approximately the same time the suspect needed for his daily commute.
 
 [^imdb-lebowski]: [The Big Lebowski](http://www.imdb.com/title/tt0118715/), IMDB, 2014-10-04
 
