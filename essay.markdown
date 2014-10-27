@@ -45,7 +45,7 @@ One needs only look at the TV series "Numb3rs"[^imdb-numbers] which aired severa
 
 [^manpage-whois]: `man whois`, BSD Manpages on OS X 10.10 Yosemite
 
-`whois` queries are used to get information about users who have registered or administer an Internet domain (e.g. `example.org`). While nowadays many providers offer a paid option called "whois privacy" to protect against that, querying a site's whois entry may present valuable information about the owner. These databases by default require personal details to be entered, among them:
+`whois` queries are used to get information about users who have registered or administer an Internet domain (e.g. `example.org`). While nowadays many providers offer a paid option called "whois privacy" to protect against that, querying a site's whois entry may present valuable information about the owner. By default, it is necessary to provide personal details for your entry in those databases, among them:
 
 - full name
 - complete postal address
@@ -189,7 +189,7 @@ Going through the tweets from oldest to newest, there are many things to learn.
 * contacted @esteele with software questions, must be using Plone at some point
 * advocate of fully automatic security updates with no user interaction
 * is user of Valve`s Steam (video game store), Netflix (video streaming portal), Instapaper (read it later service)
-* has a spouse
+* has a girlfriend
 * probably has a credit card
 * is familiar with cryptographic principles
 * is interested in InfoSec (follows and retweets @JZziarski, @SwiftOnSecurity, @viss)
